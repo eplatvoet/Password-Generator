@@ -1,20 +1,4 @@
 # Assignment 3 - JavaScript Password Generator
-<!-- 
-```
-GIVEN I need a new, secure password
-WHEN I click the button to generate a password
-THEN I am presented with a series of prompts for password criteria
-WHEN prompted for password criteria
-THEN I select which criteria to include in the password
-WHEN prompted for the length of the password
-THEN I choose a length of at least 8 characters and no more than 128 characters
-WHEN prompted for character types to include in the password
-THEN I choose lowercase, uppercase, numeric, and/or special characters
-WHEN I answer each prompt
-THEN my input should be validated and at least one character type should be selected
-WHEN all prompts are answered
-THEN a password is generated that matches the selected criteria
-WHEN the password is generated
-THEN the password is either displayed in an alert or written to the page
-``` -->
-For this assignment, we were given the beginning parts of the HTML, CSS & JS codes, but needed to add quite a bit of coding to the JS file in order to get the password generator to work. 
+For this assignment, we were given the beginning parts of the HTML, CSS & JS codes, but we were instructed to add the remaining code to the JS file in order to get the password generator to work. The user needed to be able to choose what type of characters they would like their password to contain, and any amount of characters between 8-128. 
+
+In order to complete this project, I utilized the lesson activities from the week, looked at w3schools.com, watched some of the javascript tutorials by Net Ninja on YouTube, and collaborated with fellow classmates (Carlo DeFilippis, Kristen Van Neste, Andie Wheeler, Ivan Zapata-Rivera, Maurya Patel, Miguel Jimenez, & Matt Volonnino) on a zoom call on 7/23/2020 as we live coded our way through the assignment. 
