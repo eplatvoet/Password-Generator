@@ -1,15 +1,39 @@
-# Assignment 3 - JavaScript Password Generator
-For this assignment, we were given the beginning parts of the HTML, CSS & JS codes, but we were instructed to add the remaining code to the JS file in order to get the password generator to work. The user needed to be able to choose what type of characters they would like their password to contain, and any amount of characters between 8-128. 
+# JavaScript Password Generator
+# ![Git Hub license](https://img.shields.io/badge/License-Unlicensed-blue.svg)
 
-In order to complete this project, I utilized the lesson activities from the week, looked at w3schools.com, watched some of the javascript tutorials by Net Ninja on YouTube, and collaborated with fellow classmates (Carlo DeFilippis, Kristen Van Neste, Andie Wheeler, Ivan Zapata-Rivera, Maurya Patel, Miguel Jimenez, & Matt Volonnino) on a zoom call on 7/23/2020 as we live coded our way through the assignment. 
+## TABLE OF CONTENTS
+- [DESCRIPTION](#DESCRIPTION)  
+- [LICENSE](#LICENSE)  
+- [INSTALLATION](#INSTALLATION)  
+- [TECHNOLOGIES](#TECHNOLOGIES)  
+- [QUESTIONS](#QUESTIONS)  
+- [CONTRIBUTIONS](#CONTRIBUTIONS)
+- [LINKS](#LINKS)  
+- [SCREENSHOTS](#SCREENSHOTS) 
 
-## TECHNOLOGIES USED
--HTML
--CSS
--JavaScript
+## DESCRIPTION
+Welcome to the Password Generator. The user is to be able to choose what type of characters they would like their password to contain (uppercase, lowercase, numerical &/or special), and any amount of characters between 8-128.  
 
-## LINK
-https://eplatvoet.github.io/Password-Generator/  
+## LICENSE
+Unlicensed
 
-## SCREENSHOT
+## INSTALLATION
+N/A
+
+## TECHNOLOGIES 
+- HTML  
+- CSS  
+- JavaScript  
+
+## QUESTIONS
+My GitHub username is *eplatvoet* & my profile can be found [here](https://github.com/eplatvoet) 
+
+## CONTRIBUTIONS
+Feel free to fork the repository if any upgrades/features can be implemented. I can be reached at erin.didomenico520@gmail.com if you have any other questions about this repository.
+
+## LINKS
+[REPO](https://github.com/eplatvoet/Password-Generator)
+[DEPLOYED](https://eplatvoet.github.io/Password-Generator/)  
+
+## SCREENSHOTS
 ![screenshot](assets/PasswordGenerator.gif)
